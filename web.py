@@ -180,7 +180,7 @@ def run_web():
                 st.markdown("### Wireless Clients in Networks")
                 st.caption("Report the number of clients in a wireless network.")
                 st.markdown("**Author:** SandroN")
-                st.markdown("[GitHub Project Repository](#)")
+                st.markdown("[GitHub Project Repository](https://github.com/SandroNardi/wireless_client_count)")
                 st.divider()
                 
                 if st.button("⚙️ System Configuration", width='stretch'):
